@@ -9,7 +9,7 @@ index 82b1b09..27d42ca 100644
 +	{ ShiftMask,            XK_Page_Up,     kscrollup,      {.i = -1} },
 +	{ ShiftMask,            XK_Page_Down,   kscrolldown,    {.i = -1} },
  };
- 
+
  /*
 diff --git a/st.c b/st.c
 index 65a0cb6..1d8c12a 100644
